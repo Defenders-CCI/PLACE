@@ -1,0 +1,23 @@
+{
+"workspace":
+    {
+    "workspace_name" :"change-detection", 
+    "subscription_id":"c394ca90-7d39-44ca-902d-a857ca6258cf", 
+    "resource_group":"PLACE"
+    },
+"fileShare":
+    {
+    "file_share_name" : "landcover-ai",
+    "account_name" : "changedetectio8527471924",
+	"datastore_name": "placefilestore",
+	"connection_string": "DefaultEndpointsProtocol=https;AccountName=changedetectio8527471924;AccountKey=Dku+0TqE3wzDk0vpS72stllllxRpWbSqK0qjDblVX3pSha2Qhiq2/E8wW15KcuSThZ24WGmttkSNjgIGdkBzDA==;EndpointSuffix=core.windows.net"
+    },
+"data":
+    {
+    "pts_path" : "THC/travis_county/data/vector/travis_2017.geojson",
+	"img_path" : "THC/travis_county/data/images/travis_county_2017.tif",
+    "out_path" : "THC/travis_county/output/travis_2017_classified.tif"
+    },
+"model": "2017"
+}
+

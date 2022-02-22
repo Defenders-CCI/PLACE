@@ -1,0 +1,23 @@
+{
+"workspace":
+    {
+    "workspace_name" :"change-detection", 
+    "subscription_id":"c394ca90-7d39-44ca-902d-a857ca6258cf", 
+    "resource_group":"PLACE"
+    },
+"fileShare":
+    {
+    "file_share_name" : "landcover-ai",
+    "account_name" : "changedetectio8527471924",
+	"datastore_name": "placefilestore",
+	"connection_string": "DefaultEndpointsProtocol=https;AccountName=changedetectio8527471924;AccountKey=Dku+0TqE3wzDk0vpS72stllllxRpWbSqK0qjDblVX3pSha2Qhiq2/E8wW15KcuSThZ24WGmttkSNjgIGdkBzDA==;EndpointSuffix=core.windows.net"
+    },
+"data":
+    {
+    "pts_path" : "THC/comal_county/data/vector/comal_2016.geojson",
+	"img_path" : "THC/comal_county/data/images/comal_county_2016.tif",
+    "out_path" : "THC/comal_county/output/comal_2016_classified.tif"
+    },
+"model": "comal_2016"
+}
+
