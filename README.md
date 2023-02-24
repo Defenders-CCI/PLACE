@@ -2,6 +2,7 @@
 Predicting Landscapes to Advance Conservation Effectiveness
 
 The PLACE project seeks to develop predictive models of anthropogenic land cover change based upon underlying geographic, regulatory, economic, and social data. As a proof of concept, we are conducting case studies in two focal areas: A 12-county area in central Texas known as 'Texas Hill Country', and Mecklenberg County, NC.
+This work was funded by National Geographic and the Blumenthal Foundation.
 
 ## Python code
 Based on the Microsoft Landcover AI repository, this directory contains files, modules, and scripts for fine-tuning and running land cover classification models using Sentinel-2 data and the pre-trained sentinel-demo model.
