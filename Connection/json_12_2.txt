@@ -1,0 +1,381 @@
+[
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84286,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 6,
+                        "elevation": 281,
+                        "slope": 2,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 199.659,
+                        "urbandistance": 0,
+                        "landmarkdistance": 784.131,
+                        "npp": 2057
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[2.9257732236942502e-08, 0.0013600202510133386, 2.115449859729779e-08, 0.00288105639629066, 0.013988801278173923, 0.002122556557878852, 0.014555481262505054, 0.9650920629501343]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84277,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 6,
+                        "elevation": 281,
+                        "slope": 2,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 189.4131,
+                        "urbandistance": 0,
+                        "landmarkdistance": 791.5338,
+                        "npp": 2057
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[2.9253756750335924e-08, 0.0013488876866176724, 2.115162445193164e-08, 0.0028806650079786777, 0.013986901380121708, 0.0021222680807113647, 0.014700241386890411, 0.9649609327316284]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84268,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 6,
+                        "elevation": 282,
+                        "slope": 2,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 189.4131,
+                        "urbandistance": 0,
+                        "landmarkdistance": 798.9811,
+                        "npp": 2100
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[2.924301334417123e-08, 0.001437997561879456, 2.114385644347294e-08, 0.0028796070255339146, 0.014345254749059677, 0.002035768935456872, 0.014694842509925365, 0.964606523513794]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84259,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 5,
+                        "elevation": 282,
+                        "slope": 2,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 179.1827,
+                        "urbandistance": 0,
+                        "landmarkdistance": 806.4719,
+                        "npp": 2100
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.158988151762969e-08, 0.0002629435621201992, 6.197655011419556e-08, 0.008286493830382824, 0.25834834575653076, 0.013343587517738342, 0.6053253412246704, 0.11443309485912323]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84251,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 5,
+                        "elevation": 282,
+                        "slope": 2,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 168.9705,
+                        "urbandistance": 0,
+                        "landmarkdistance": 814.0047,
+                        "npp": 2100
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.318992428257843e-08, 0.00026469427393749356, 6.319196188542264e-08, 0.008448999375104904, 0.2438073754310608, 0.013605266809463501, 0.6171963214874268, 0.11667721718549728]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84241,
+                        "y": 30.44826,
+                        "changedetection": 1,
+                        "year1": 6,
+                        "elevation": 283,
+                        "slope": 3,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 158.78,
+                        "urbandistance": 0,
+                        "landmarkdistance": 821.5786,
+                        "npp": 5623
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[4.549361065642188e-08, 0.003300340147688985, 3.469927634114356e-08, 0.0037341369315981865, 0.02330063097178936, 0.0124924685806036, 0.013464384712278843, 0.9437080025672913]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84232,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 3,
+                        "elevation": 283,
+                        "slope": 3,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 148.6158,
+                        "urbandistance": 0,
+                        "landmarkdistance": 821.5786,
+                        "npp": 5623
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[1.0130484184855959e-07, 0.000639311212580651, 7.7323086600245e-08, 0.006594532169401646, 0.6543662548065186, 0.225135937333107, 0.04405058175325394, 0.06921318173408508]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84223,
+                        "y": 30.44826,
+                        "changedetection": 1,
+                        "year1": 5,
+                        "elevation": 283,
+                        "slope": 3,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 148.6158,
+                        "urbandistance": 0,
+                        "landmarkdistance": 829.1923,
+                        "npp": 5623
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[1.359208852136362e-07, 0.0011117507237941027, 1.0945865369649255e-07, 0.013599526137113571, 0.25546228885650635, 0.03229500725865364, 0.5409089922904968, 0.15662220120429993]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84215,
+                        "y": 30.44826,
+                        "changedetection": 1,
+                        "year1": 5,
+                        "elevation": 283,
+                        "slope": 3,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 138.4835,
+                        "urbandistance": 0,
+                        "landmarkdistance": 836.8447,
+                        "npp": 6184
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[1.3682218025223847e-07, 0.001197069650515914, 1.3401914600308373e-07, 0.01150461658835411, 0.2664985656738281, 0.06377299129962921, 0.5323266386985779, 0.12469982355833054]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84206,
+                        "y": 30.44826,
+                        "changedetection": 0,
+                        "year1": 5,
+                        "elevation": 282,
+                        "slope": 4,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 128.3907,
+                        "urbandistance": 0,
+                        "landmarkdistance": 844.535,
+                        "npp": 6184
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[1.417814274873308e-07, 0.001240457990206778, 1.388767998378171e-07, 0.011921605095267296, 0.30093786120414734, 0.07466153800487518, 0.4838751256465912, 0.12736313045024872]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84394,
+                        "y": 30.44817,
+                        "changedetection": 0,
+                        "year1": 12,
+                        "elevation": 277,
+                        "slope": 8,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 303.8634,
+                        "urbandistance": 0,
+                        "landmarkdistance": 712.73,
+                        "npp": 6535
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.084675507183392e-13, 8.87296636165047e-09, 0.9999997615814209, 1.3753836292096366e-08, 5.4171348295994903e-08, 7.848880301253303e-08, 4.130266972879326e-08, 4.484192217546479e-08]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84385,
+                        "y": 30.44817,
+                        "changedetection": 0,
+                        "year1": 12,
+                        "elevation": 277,
+                        "slope": 8,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 293.5844,
+                        "urbandistance": 0,
+                        "landmarkdistance": 719.4853,
+                        "npp": 6535
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.084675507183392e-13, 8.553971753144651e-09, 0.9999997615814209, 1.3753836292096366e-08, 5.4171348295994903e-08, 7.657751410761193e-08, 4.130266972879326e-08, 4.48392718510604e-08]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84376,
+                        "y": 30.44817,
+                        "changedetection": 0,
+                        "year1": 12,
+                        "elevation": 279,
+                        "slope": 5,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 293.5844,
+                        "urbandistance": 0,
+                        "landmarkdistance": 726.3022,
+                        "npp": 6510
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.084675507183392e-13, 7.18164150370626e-09, 0.9999997615814209, 1.328511345377592e-08, 5.346726794641654e-08, 8.469215373452244e-08, 4.1709345310891877e-08, 4.5294502371007184e-08]]
+		} 
+	}, 
+	{
+                  "Inputs": {
+                    "data": [
+                      {
+                        "Column2": "example_value",
+                        "x": -97.84367,
+                        "y": 30.44817,
+                        "changedetection": 0,
+                        "year1": 12,
+                        "elevation": 279,
+                        "slope": 5,
+                        "popdensity_day": 0,
+                        "popdensity_night": 0,
+                        "roaddistance": 283.3127,
+                        "urbandistance": 0,
+                        "landmarkdistance": 733.1791,
+                        "npp": 6510
+                      }
+                    ]
+                  },
+                  "GlobalParameters": {
+                    "method": "predict_proba"
+                  }, 
+			"Outputs":{
+				"Results": [[8.084675507183392e-13, 7.18164150370626e-09, 0.9999997615814209, 1.3565109036051126e-08, 5.346726794641654e-08, 8.469215373452244e-08, 4.1709345310891877e-08, 4.5294502371007184e-08]]
+		} 
+	}
+]
+
